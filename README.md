@@ -50,7 +50,7 @@
     </td>
     <td align="center" width="96">
       <a href="#suhailkakar-tech">
-        <img src="https://bkimg.cdn.bcebos.com/pic/faf2b2119313b07eca80a2d58a9d862397dda0442691?x-bce-process=image/resize,m_lfit,w_536,limit_1/format,f_jpg" width="48" height="48" alt="Node JS" />
+        <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" width="48" height="48" alt="Node JS" />
       </a>
       <br>C++
     </td>
