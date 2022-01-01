@@ -33,6 +33,53 @@ Here are some ideas to get you started:
       <br>TypeScript
     </td>
     <td align="center" width="96">
+      <a href="#suhailakar-tech">
+        <img src="https://avatars.githubusercontent.com/u/4314092?s=200&v=4" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>Golang
+    </td>
+    <td align="center" width="96">
+      <a href="#suhailkakar-tech">
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="48" height="48" alt="Node JS" />
+      </a>
+      <br>Node JS
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="center" width="96">
+      <a href="#suhailkakar-tech" >
+        <img src="https://camo.githubusercontent.com/d7574156c7a1844d3c2907bae0e76254cca759290c08e08a6ef2bd7543c8c0ca/68747470733a2f2f692e6962622e636f2f737331374b47302f63376238313133323437666563643833626439623565643562643366333464352d72656d6f766562672d707265766965772e706e67" width="48" height="48" alt="Linux" />
+      </a>
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <a href="#suhailkakar-tech" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="96"> 
+      <a href="#suhailkakar-tech" >
+        <img src="https://i.ibb.co/QXHcMvM/58481021cef1014c0b5e494b.png" width="48" height="48" alt="Mongo DB" />
+      </a>
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <a href="#suhailkakar-tech">
+        <img src="https://4.bp.blogspot.com/-rtNRVM3aIvI/XJX_U07Z-II/AAAAAAAAJXY/YpdOo490FTgdKOxM4qDG-2-EzcNFAWkKACK4BGAYYCw/s1600/logo%2Bfirebase%2Bicon.png" width="48" height="48" alt="Firebase" />
+      </a>
+      <br>Firebase
+    </td>
+  </tr>
+   <tr>
+     <td align="center" width="96">
+      <a href="#suhailkakar-tech">
+        <img src="https://iconape.com/wp-content/png_logo_vector/cib-flask.png" width="48" height="48" alt="Flask" />
+      </a>
+      <br>Flask
+    </td>
+     <td align="center" width="96">
       <a href="#suhailkakar-tech">
         <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
       </a>
@@ -46,68 +93,9 @@ Here are some ideas to get you started:
     </td>
     <td align="center" width="96">
       <a href="#suhailkakar-tech">
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="48" height="48" alt="Node JS" />
-      </a>
-      <br>Node JS
-    </td>
-     <td align="center" width="96"> 
-      <a href="#suhailkakar-tech" >
-        <img src="https://i.ibb.co/QXHcMvM/58481021cef1014c0b5e494b.png" width="48" height="48" alt="Mongo DB" />
-      </a>
-      <br>MongoDB
-    </td>
-  </tr>
-  
-  <tr>
-    <td align="center" width="96">
-      <a href="#suhailkakar-tech" >
-        <img src="https://camo.githubusercontent.com/d7574156c7a1844d3c2907bae0e76254cca759290c08e08a6ef2bd7543c8c0ca/68747470733a2f2f692e6962622e636f2f737331374b47302f63376238313133323437666563643833626439623565643562643366333464352d72656d6f766562672d707265766965772e706e67" width="48" height="48" alt="Linux" />
-      </a>
-      <br>Linux
-    </td>
-    <td align="center"  width="96">
-      <a href="#suhailkakar-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png" width="48" height="48" alt="Electron" />
-      </a>
-      <br>Electron
-    </td>
-    <td align="center" width="96">
-      <a href="#suhailkakar-tech">
-        <img src="https://4.bp.blogspot.com/-rtNRVM3aIvI/XJX_U07Z-II/AAAAAAAAJXY/YpdOo490FTgdKOxM4qDG-2-EzcNFAWkKACK4BGAYYCw/s1600/logo%2Bfirebase%2Bicon.png" width="48" height="48" alt="Firebase" />
-      </a>
-      <br>Firebase
-    </td>
-    <td align="center" width="96">
-      <a href="#suhailkakar-tech" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="48" height="48" alt="GraphQL" />
-      </a>
-      <br>GraphQL
-    </td>
-    <td align="center" width="96">
-      <a href="#suhailkakar-tech" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-  </tr>
-   <tr>
-    <td align="center" width="96">
-      <a href="#suhailkakar-tech">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width="48" height="48" alt="Tensorflow" />
       </a>
       <br>Tensorflow
-    </td>
-    <td align="center" width="96">
-      <a href="#suhailkakar-tech">
-        <img src="https://iconape.com/wp-content/png_logo_vector/cib-flask.png" width="48" height="48" alt="Flask" />
-      </a>
-      <br>Flask
-    </td>
-     <td align="center" width="96"> 
-      <a href="#suhailkakar-tech" >
-        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="Redux" />
-      </a>
-      <br>Redux
     </td>
   </tr>
 </table>
