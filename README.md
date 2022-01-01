@@ -121,7 +121,7 @@
     </td>
     <td align="center" width="96"> 
       <a href="#suhailkakar-tech" >
-        <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_smile-header-desktop-en-white_59x35@2x.png" width="48" height="48" alt="Google Cloud" />
+        <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_smile-header-desktop-en-white_59x35@2x.png" width="59" height="35" alt="Google Cloud" />
       </a>
       <br>AWS Cloud
     </td>
