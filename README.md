@@ -146,8 +146,6 @@
   </tr>
 </table>
 
-> Kaifun's github activity graph
-
 [![Kaifun's github activity graph](https://activity-graph.herokuapp.com/graph?username=kaifun&theme=react-dark)](https://github.com/kaifun)
 
 <!-- Thanks https://github.com/suhailkakar/suhailkakar -->
