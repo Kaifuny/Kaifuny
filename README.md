@@ -111,6 +111,12 @@ Here are some ideas to get you started:
     </td>
     <td align="center" width="96">
       <a href="#suhailkakar-tech">
+        <img src="https://windicss.org/assets/logo.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Windi CSS
+    </td>
+    <td align="center" width="96">
+      <a href="#suhailkakar-tech">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width="48" height="48" alt="Tensorflow" />
       </a>
       <br>Tensorflow
