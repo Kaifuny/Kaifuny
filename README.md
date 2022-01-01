@@ -39,6 +39,12 @@ Here are some ideas to get you started:
       <br>Golang
     </td>
     <td align="center" width="96">
+      <a href="#suhailakar-tech">
+        <img src="https://developer.apple.com/assets/elements/icons/swift/swift-64x64_2x.png" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>Swift
+    </td>
+    <td align="center" width="96">
       <a href="#suhailkakar-tech">
         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="48" height="48" alt="Node JS" />
       </a>
