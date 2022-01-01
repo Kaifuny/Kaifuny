@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm Kaifun 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Typescript, Swift, Golang
 - 🌱 I’m currently learning Swift UI
 - 💬 Ask me about anything, I am happy to help XD
@@ -123,3 +121,6 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
+
+
+[![Kaifun's github activity graph](https://activity-graph.herokuapp.com/graph?username=kaifun&theme=react-dark)](https://github.com/kaifun)
