@@ -1,10 +1,11 @@
 ### Hi there 👋, I'm Kaifun 
 
+> 👨🏻‍💻 Improve development experience, develop high user experience applications
+
 - 🔭 I’m currently working on Typescript, Swift, Golang
 - 🌱 I’m currently learning Swift UI
 - 💬 Ask me about anything, I am happy to help XD
 - 📫 How to reach me: superbiger.github@gmail.com
-- 👨🏻‍💻 Improve development experience, develop high user experience applications
 
 <h2 align="left" id="suhailkakar-tech">Favorite Tech</h2>
 
