@@ -84,6 +84,12 @@
     </td>
     <td align="center" width="96">
       <a href="#suhailkakar-tech" >
+        <img src="https://avatars.githubusercontent.com/u/6471485?s=200&v=4" width="48" height="48" alt="Git" />
+      </a>
+      <br>Neovim
+    </td>
+    <td align="center" width="96">
+      <a href="#suhailkakar-tech" >
         <img src="https://avatars.githubusercontent.com/u/1507452?s=200&v=4" width="48" height="48" alt="Git" />
       </a>
       <br>Ansible
