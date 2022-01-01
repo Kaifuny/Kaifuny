@@ -113,11 +113,17 @@
       </a>
       <br>Windi CSS
     </td>
-    <td align="center" width="96">
-      <a href="#suhailkakar-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width="48" height="48" alt="Tensorflow" />
+    <td align="center" width="96"> 
+      <a href="#suhailkakar-tech" >
+        <img src="https://brandeps.com/logo-download/G/Google-Cloud-logo-vector-01.svg" width="48" height="48" alt="Google Cloud" />
       </a>
-      <br>Tensorflow
+      <br>G Cloud
+    </td>
+    <td align="center" width="96"> 
+      <a href="#suhailkakar-tech" >
+        <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_smile-header-desktop-en-white_59x35@2x.png" width="48" height="48" alt="Google Cloud" />
+      </a>
+      <br>AWS Cloud
     </td>
   </tr>
 </table>
