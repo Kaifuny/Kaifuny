@@ -34,13 +34,13 @@
     </td>
     <td align="center" width="96">
       <a href="#suhailakar-tech">
-        <img src="https://avatars.githubusercontent.com/u/4314092?s=200&v=4" width="48" height="48" alt="TypeScript" />
+        <img src="https://avatars.githubusercontent.com/u/4314092?s=200&v=4" width="48" height="48" alt="Golang" />
       </a>
       <br>Golang
     </td>
     <td align="center" width="96">
       <a href="#suhailakar-tech">
-        <img src="https://developer.apple.com/assets/elements/icons/swift/swift-64x64_2x.png" width="48" height="48" alt="TypeScript" />
+        <img src="https://developer.apple.com/assets/elements/icons/swift/swift-64x64_2x.png" width="48" height="48" alt="Swift" />
       </a>
       <br>Swift
     </td>
@@ -52,7 +52,7 @@
     </td>
     <td align="center" width="96">
       <a href="#suhailkakar-tech">
-        <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" width="48" height="48" alt="Node JS" />
+        <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" width="48" height="48" alt="C++" />
       </a>
       <br>C++
     </td>
@@ -79,19 +79,19 @@
     </td>
     <td align="center" width="96">
       <a href="#suhailkakar-tech" >
-        <img src="https://github.com/microsoft/vscode-docs/raw/main/images/logo-stable.png" width="48" height="48" alt="Git" />
+        <img src="https://github.com/microsoft/vscode-docs/raw/main/images/logo-stable.png" width="48" height="48" alt="VS Code" />
       </a>
       <br>VS Code
     </td>
     <td align="center" width="96">
       <a href="#suhailkakar-tech" >
-        <img src="https://avatars.githubusercontent.com/u/6471485?s=200&v=4" width="48" height="48" alt="Git" />
+        <img src="https://avatars.githubusercontent.com/u/6471485?s=200&v=4" width="48" height="48" alt="Neovim" />
       </a>
       <br>Neovim
     </td>
     <td align="center" width="96">
       <a href="#suhailkakar-tech" >
-        <img src="https://avatars.githubusercontent.com/u/1507452?s=200&v=4" width="48" height="48" alt="Git" />
+        <img src="https://avatars.githubusercontent.com/u/1507452?s=200&v=4" width="48" height="48" alt="Ansible" />
       </a>
       <br>Ansible
     </td>
@@ -103,7 +103,7 @@
     </td>
     <td align="center" width="96"> 
       <a href="#suhailkakar-tech" >
-        <img src="https://redis.io/images/redis-small.png" width="48" height="48" alt="Mongo DB" />
+        <img src="https://redis.io/images/redis-small.png" width="48" height="48" alt="Redis" />
       </a>
       <br>Redis
     </td>
@@ -123,21 +123,27 @@
     </td>
     <td align="center" width="96">
       <a href="#suhailkakar-tech">
-        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
+        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React JS" />
       </a>
       <br>React JS
     </td>
     <td align="center" width="96">
       <a href="#suhailkakar-tech">
-        <img src="https://vuejs.org/images/logo.svg" width="48" height="48" alt="Bootstrap" />
+        <img src="https://vuejs.org/images/logo.svg" width="48" height="48" alt="Vue" />
       </a>
       <br>Vue
     </td>
     <td align="center" width="96">
       <a href="#suhailkakar-tech">
-        <img src="https://windicss.org/assets/logo.svg" width="48" height="48" alt="Bootstrap" />
+        <img src="https://windicss.org/assets/logo.svg" width="48" height="48" alt="Windi CSS" />
       </a>
       <br>Windi CSS
+    </td>
+     <td align="center" width="96">
+      <a href="#suhailkakar-tech">
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
     </td>
     <td align="center" width="96"> 
       <a href="#suhailkakar-tech" >
@@ -147,7 +153,7 @@
     </td>
     <td align="center" width="96"> 
       <a href="#suhailkakar-tech" >
-        <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_smile-header-desktop-en-white_59x35@2x.png" width="59" height="35" alt="Google Cloud" />
+        <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_smile-header-desktop-en-white_59x35@2x.png" width="59" height="35" alt="AWS Cloud" />
       </a>
       <br>AWS Cloud
     </td>
