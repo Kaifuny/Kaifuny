@@ -103,7 +103,7 @@
     </td>
     <td align="center" width="96"> 
       <a>
-        <img src="https://redis.io/images/redis-small.png" width="48" height="48" alt="Redis" />
+        <img src="https://avatars.githubusercontent.com/u/1529926?s=200&v=4" width="48" height="48" alt="Redis" />
       </a>
       <br>Redis
     </td>
