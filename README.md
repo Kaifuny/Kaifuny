@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Kaifun 
+### Hi there 👋, I'm Kaifun <img src="https://komarev.com/ghpvc/?username=Kaifuny&label=Profile%20views&color=0e75b6&style=flat" alt="Kaifuny" />
 > 👨🏻‍💻 Improve development experience, develop high user experience applications
 
 - 🔭 I’m currently working on Typescript, Swift, Golang
