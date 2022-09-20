@@ -3,7 +3,7 @@
 
 > 👨🏻‍💻 Improve development experience, develop high user experience applications
 
-- 🔭 I’m currently focus on Typescript, Swift, Golang
+- 🔭 I’m currently focus on Typescript, Swift, Python, Golang
 - 🌱 I’m currently learning Swift UI
 - 🏗 I'm currently working on MaS Studio for NONMEM
 - 🎉 [春松客服开源社区 cskefu](https://github.com/cskefu) developer
