@@ -163,6 +163,4 @@
   </tr>
 </table>
 
-[![Kaifuny's github activity graph](https://activity-graph.herokuapp.com/graph?username=Kaifuny&theme=react-dark)](https://github.com/Kaifuny)
-
 <!-- Thanks https://github.com/suhailkakar/suhailkakar -->
