@@ -136,12 +136,6 @@
       </a>
       <br>Vue
     </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://windicss.org/assets/logo.svg" width="48" height="48" alt="Windi CSS" />
-      </a>
-      <br>Windi CSS
-    </td>
      <td align="center" width="96">
       <a>
         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" width="48" height="48" alt="Docker" />
