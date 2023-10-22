@@ -6,7 +6,6 @@
 - 🔭 I’m currently focus on Typescript, Swift, Rust, Python, Golang
 - 🌱 I’m currently learning Swift UI
 - 🏗 I'm currently working on MaS Studio for NONMEM
-- 🎉 [春松客服开源社区(cskefu)](https://github.com/cskefu) Product Manager(Core Developer)
 - 💬 Ask me about anything, I am happy to help XD
 - 📫 How to reach me: superbiger.github@gmail.com
 
