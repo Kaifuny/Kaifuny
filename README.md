@@ -7,6 +7,7 @@
 - 🌱 I’m currently learning Swift UI
 - 🏗 I'm currently working on MaS Studio for NONMEM
 - 💬 Ask me about anything, I am happy to help XD
+- 📫 How to reach me: 【 will change 】
 
 <h2 align="left" id="suhailkakar-tech">Favorite Tech</h2>
 
