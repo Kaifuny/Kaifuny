@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently focus on Typescript, Swift, Rust, Python, Golang
 - 🌱 I’m currently learning Swift UI
-- 🏗 I'm currently working on MaS Studio for NONMEM
+- 🏗 I'm currently working on BI, Digital Twin，MasScholar
 - 💬 Ask me about anything, I am happy to help XD
 - 📫 How to reach me: 【 will change 】
 
